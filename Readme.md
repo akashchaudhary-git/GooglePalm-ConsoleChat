@@ -1,0 +1,1 @@
+Save your PALM key under your environment variable as PALM_KEY
